@@ -1,0 +1,27 @@
+{
+  "name": "node-api-util-store",
+  "version": "0.0.2",
+  "description": "API with function utils",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marceloF5/node-api-util-store.git"
+  },
+  "author": "Marcelo Fortunato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marceloF5/node-api-util-store/issues"
+  },
+  "homepage": "https://github.com/marceloF5/node-api-util-store#readme",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "express": "^4.16.1",
+    "http": "0.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
